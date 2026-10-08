@@ -3,6 +3,7 @@ uvicorn
 SQLAlchemy
 psycopg[binary]
 pydantic
+pydantic[email]
 pydantic-settings
 python-jose
 passlib
